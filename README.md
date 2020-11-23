@@ -1,2 +1,2 @@
 # asynche
-asynce, че?
+async, че?
